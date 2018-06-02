@@ -1,0 +1,18 @@
+h1{
+    padding : 20px;
+    margin: 20px; 
+    text-align: center;
+    colour: orange;
+    font-size: 51px;
+    background: color #000011;
+
+}
+.welcome{
+
+background:tomato;
+}
+.div2 .welcome{
+
+    background:slateblue; 
+    display: inline-block;
+}
